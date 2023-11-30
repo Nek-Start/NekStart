@@ -56,7 +56,7 @@ Blame
 <br />
 <div align="center">
   <a href="https://github.com/Nek-Start/NekStart">
-    <img src="[https://github.com/Nek-Start/NekStart/blob/main/%40Resources/Materials/Images/NekStart.png]" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Nek-Start/NekStart/blob/main/%40Resources/Materials/Images/NekStart.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">JaxCore</h3>
@@ -81,30 +81,18 @@ Blame
 
 ![GithubBanner](https://user-images.githubusercontent.com/80020581/173227081-761ae822-6c83-4a10-9093-a3117c2cffd7.png)
 
-JaxCore is a collection of utility modules designed to improve your desktop experience and increase your productivity. Core is a configuration hub that allows for quick access to settings, updates, and new releases.
+NekStart is a collection of utility modules designed to improve your desktop experience and increase your productivity. NekStart is a configuration hub that allows for quick access to settings, updates, and new releases.
 
-JaxCore (configuration hub) acts as a settings menu for all JaxCore modules, while providing continuous support for patch / feature updates. It also allows you to access other modules more quickly!
+NekStart (configuration hub) acts as a settings menu for all NekStart modules, while providing continuous support for patch / feature updates. It also allows you to access other modules more quickly!
 
 ## Screenshots 🖼️
 You can check out what you're desktop can look like [here](https://github.com/Jax-Core/JaxCore/blob/main/Screenshots.md)!
 
 ## Prerequisites 🖥️
 - **Windows 10 (x64)** or above
-- > 6GB RAM, > 4 Core CPU
+- > 4GB RAM, > 2 Core CPU
 - For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
 
-## Installation ✅
-**By Powershell CLI:**
-Run the following command in Powershell to install the latest version of JaxCore.
-
-(To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
-
-```
-iwr -useb "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstaller.ps1" | iex
-```
-For other methods or changing install location, check out the [FAQs](https://jaxcore.gitbook.io/core/getting-started/faqs/jaxcore-faqs#installation)
-<br />
-<br />
 
 ## Core Widgets and Modules ☑️
 
@@ -155,7 +143,7 @@ The following table lists out the external plugins used to make JaxCore and all 
 | [TrayIcon](https://github.com/deathcrafter/PluginTrayIcon) | [@deathcrafter](https://github.com/deathcrafter) | 
 | [SysColor](https://github.com/brianferguson/SysColor.dll) | [@brianferguson](https://github.com/brianferguson) | 
 
-The following table lists the external technologies used for JaxCore.
+The following table lists the external technologies used for NekStart.
 | Technology | Creator | 
 | ------------- | ------------- |
 | [AutoHotkey](https://www.autohotkey.com/) | AHK Team | 
@@ -163,20 +151,13 @@ The following table lists the external technologies used for JaxCore.
 
 <!-- START Footer.mustache -->
 
-## Need assistance?
-* Join the [CoreCommunity Discord Server](https://discord.gg/JmgehPSDD6) for help
-* or [Create an issue](https://github.com/Jax-Core/JaxCore)
 
-## Say Hi!
-* Follow me on 👨‍💻 [Github](https://github.com/EnhancedJax) and stay updated on new things that I make
-* You can also watch me on 🐦 [DeviantArt](https://www.deviantart.com/jaxoriginals) instead
-* Message me on 🗨️ [Discord](https://discord.gg/JmgehPSDD6)
 
 ---
 
 <p align="center">
-<i>Made with ❤️ by Jax</i>
+<i>Made with ❤️ by Nasir</i>
    <br/><br/>
    <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Assets/Logo.png"  width="32" height="32"/>
 </p><!-- END Footer.mustache -->
-JaxCore/README.md at main · Jax-Core/JaxCore 
+NekStart/README.md at main · Nek-Start\NekStart 
