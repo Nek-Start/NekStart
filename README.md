@@ -146,7 +146,6 @@ The following table lists out the external plugins used to make JaxCore and all 
 The following table lists the external technologies used for NekStart.
 | Technology | Creator | 
 | ------------- | ------------- |
-| [AutoHotkey](https://www.autohotkey.com/) | AHK Team | 
 | [RainRGB](https://forum.rainmeter.net/viewtopic.php?t=6215) | jsMorley | 
 
 <!-- START Footer.mustache -->
@@ -158,6 +157,6 @@ The following table lists the external technologies used for NekStart.
 <p align="center">
 <i>Made with ❤️ by Nasir</i>
    <br/><br/>
-   <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Assets/Logo.png"  width="32" height="32"/>
+   <img src="https://github.com/Nek-Start/NekStart/blob/main/%40Resources/Materials/Images/NekStart.png""  width="32" height="32"/>
 </p><!-- END Footer.mustache -->
 NekStart/README.md at main · Nek-Start\NekStart 
