@@ -56,7 +56,7 @@ Blame
 <br />
 <div align="center">
   <a href="https://github.com/Nek-Start/NekStart">
-    <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Icons/JaxCore.png" alt="Logo" width="80" height="80">
+    <img src="[https://github.com/Nek-Start/NekStart/blob/main/%40Resources/Materials/Images/NekStart.png]" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">JaxCore</h3>
